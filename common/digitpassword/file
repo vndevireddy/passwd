@@ -1,1 +1,10 @@
 
+
+1 digit number list have total 10         "linux_cmd: crunch 1 1 -t % > 1digitnumber.txt"
+2 digit number list have total 100        "linux_cmd: crunch 2 2 -t %% > 2digitnumber.txt"
+3 digit number list have total 1000       "linux_cmd: crunch 3 3 -t %%% > 3digitnumber.txt"
+4 digit number list have total 10000      "linux_cmd: crunch 4 4 -t %%%% > 4digitnumber.txt"
+5 digit number list have total 100000     "linux_cmd: crunch 5 5 -t %%%% > 5digitnumber.txt"
+6 digit number list have total 1000000    "linux_cmd: crunch 6 6 -t %%%%%% > 6digitnumber.txt"
+7 digit number list have total 10000000   "linux_cmd: crunch 7 7 -t %%%%%%% > 7digitnumber.txt"
+8 digit number list have total 100000000  "linux_cmd: crunch 8 8 -t %%%%%%%% > 8digitnumber.txt"
